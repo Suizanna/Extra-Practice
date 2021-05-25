@@ -1,2 +1,2 @@
 import './styles.css';
-import './js/task-1';
+import './js/module -11';
